@@ -3,6 +3,6 @@ Hi, I’m Meghnath Dey a sophmore at the University of California Berkeley's Col
 
 <H1>Connect with me:</H1>
 
-Email: meghd2cx@gmail.com <br />
+Email: mdey@berkeley.edu<br />
 Instagram: meghd2cx <br />
 Twitter: meghd2cx <br />
